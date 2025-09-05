@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "This is Native Environment If you need any support then contact the Developer with the given contact details"
+  message: "This is Native WEBHOOKS Environment. If you need any support then contact the Developer with the given contact details"
   contactDetails:
     name: "Abhijeet"
     email: "akjhaa@gmail.com"
