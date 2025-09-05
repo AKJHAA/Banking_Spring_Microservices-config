@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hey There, Welcome to PRODuction API for Abhijeet's Bank. If you need any support then contact the Developer with the given contact details"
+  message: "Hey There, Welcome to Production- API for Abhijeet's Bank. If you need any support then contact the Developer with the given contact details"
   contactDetails:
     name: "Abhijeet - PROD_OWNER"
     email: "{cipher}3713af14f99ff5c753a39430872715a1144cc1ef556b10e53e51853ae0e21d8d60759c6bed45e6f81c00c0a76e0cb469"
@@ -10,5 +10,6 @@ accounts:
     - (999) 111-2365
 
     - (999) 222-2366
+
 
 
